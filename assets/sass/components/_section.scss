@@ -1,0 +1,36 @@
+#testify{
+   border-radius: 20px;
+}
+
+.testify {
+    font-family: $font-primary;
+    color: white;
+    padding: 20px;
+  }
+  .testify_text {
+    justify-content: center;
+    padding-top: 2rem;
+    text-align: center;
+  }
+  .testify_p {
+    padding-bottom: 20px;
+    margin: 0 auto;
+    font-style: italic;
+  }
+  .testify_img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    object-fit: cover;
+  }
+  .testify_name {
+    font-family: $font-seconday;
+    font-size: 26px;
+    padding: 20px;
+  }
+  
+  .testify_row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

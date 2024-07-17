@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: $font-primary;
+    color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin:10px;
+    font-family: $font-seconday;
+}
+
+h5{
+    font-family: $font-seconday;
+}
+
+hr{
+    border-color: rgba(187, 210, 171, 0.881);
+    border-width: 3px;
+}
+nav{
+    backdrop-filter: blur(15px);
+    text-shadow: 10px;
+}
+
+a{
+    text-decoration: none;
+}

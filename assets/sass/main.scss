@@ -1,0 +1,17 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+@import "./abstracts/typography";
+
+@import "./base/base"; 
+
+@import "./components/navbar";
+@import "./components/carrousel";
+@import "./components/cards";
+@import "./components/section";
+@import "./components/forms";
+@import "./components/navbar";
+
+@import "./layout/about";
+@import "./layout/footer";
+@import "./layout/header";

@@ -1,0 +1,24 @@
+.card_container{
+    min-width: 600px;
+}
+.promo_card{
+    padding: 0;
+    width: 95%;
+}
+.promo_img{
+    height: 100%;
+    object-fit: cover;
+}
+.promo_card-title{
+    font-size: larger;
+    font-weight: 800;
+}
+.promo_card-text{
+    text-align: start;
+}
+.promo_prices{
+    font-size: medium;
+}
+.promo-icon{
+    font-size: 1rem;
+}
